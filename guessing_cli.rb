@@ -1,7 +1,7 @@
 # Code your solution here!
 def run_guessing_game
 
-  user_input = ""
+  user_input = "exit"
   #while user_input != "exit"
     rand = rand(10)
     puts "Guess a Number: "
